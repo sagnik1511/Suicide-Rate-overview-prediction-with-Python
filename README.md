@@ -7,7 +7,10 @@ Data taken from kaggle platform : https://www.kaggle.com/russellyates88/suicide-
 
 This data is to be predicted with regression models .
 
-Regression models used here - 1. LinearRegression 
+Regression models used here - 
+
+                              1. LinearRegression
+
                               2. RandomForestRegression
                               
    Please **UPVOTE** if you like this analysis
